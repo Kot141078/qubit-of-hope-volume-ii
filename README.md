@@ -34,7 +34,7 @@ See [RIGHTS.json](RIGHTS.json) and [LICENSE.txt](LICENSE.txt).
 
 ## Current status
 
-7 bundles. 4 formats per bundle. 1 shared cover. Literal filename preservation. Drift reports present under `metadata/`. Publicly published on GitHub. No release tag yet. The canonical reading repository is available on `main`.
+7 bundles. 4 formats per bundle. 1 shared cover. Literal filename preservation. Drift reports present under `metadata/`. Publicly published on GitHub. First tagged release: `v1.0.0`. The canonical reading repository remains available on `main`.
 
 ## Repository layout
 

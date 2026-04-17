@@ -1,10 +1,10 @@
 Repo: qubit-of-hope-volume-ii
 Title: Qubit of Hope — Volume II
-Status: public-initial
+Status: public-release-v1.0.0
 
 Publication state:
 - publicly published on GitHub main branch
-- no release tag yet
+- first tagged release: v1.0.0
 - rights remain all rights reserved
 
 What this repo is:

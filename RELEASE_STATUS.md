@@ -21,6 +21,7 @@
 
 ## Metadata
 
+- current tagged repo state: v1.0.0
 - `BOOK_METADATA.json`
 - `EDITIONS_MATRIX.json`
 - `MANIFEST.json`

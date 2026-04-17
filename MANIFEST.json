@@ -74,7 +74,8 @@
     "Source filenames are preserved literally.",
     "French drift is documented, not normalized.",
     "Dutch EPUB _2026 drift is documented, not normalized.",
-    "Initial public GitHub publication performed on main."
+    "Initial public GitHub publication completed on main.",
+    "First release tag: v1.0.0."
   ],
   "repo_all_manifest": "hashes/SHA256SUMS.repo-all.txt",
   "repo_full_name": "Kot141078/qubit-of-hope-volume-ii",

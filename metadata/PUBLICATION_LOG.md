@@ -13,3 +13,12 @@
 - 2026-04-18 01:22:16 +02:00 — main pushed.
 - 2026-04-18 01:22:16 +02:00 — main-branch discoverability verified.
 - 2026-04-18 01:22:16 +02:00 — no asset filenames changed.
+- 2026-04-18 01:35:21 +02:00 — release-freeze patch prepared for v1.0.0.
+- 2026-04-18 01:35:21 +02:00 — hash manifests regenerated for release freeze.
+- 2026-04-18 01:35:21 +02:00 — release commit created.
+- 2026-04-18 01:35:21 +02:00 — tag v1.0.0 created.
+- 2026-04-18 01:35:21 +02:00 — main pushed.
+- 2026-04-18 01:35:21 +02:00 — tag pushed.
+- 2026-04-18 01:35:21 +02:00 — GitHub Release v1.0.0 created.
+- 2026-04-18 01:35:21 +02:00 — no asset filenames changed.
+- 2026-04-18 01:35:21 +02:00 — no edition files changed.

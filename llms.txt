@@ -1,7 +1,7 @@
 Repo: qubit-of-hope-volume-ii
 Title: Qubit of Hope — Volume II
 Role: multilingual public reading repository
-Status: public-initial
+Status: public-release-v1.0.0
 Rights: All rights reserved
 Public reading: allowed
 Local personal download: allowed

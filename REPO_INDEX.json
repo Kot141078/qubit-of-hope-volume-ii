@@ -127,7 +127,8 @@
     "Literal filename preservation.",
     "No silent normalization.",
     "Drift documented in metadata.",
-    "Initial public GitHub publication on main; no release tag yet.",
+    "Initial public GitHub publication on main completed.",
+    "First tagged public release: v1.0.0.",
     "Rights aligned to all rights reserved."
   ],
   "provisional_bundles": [
