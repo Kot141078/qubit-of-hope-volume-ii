@@ -1,0 +1,98 @@
+{
+  "asset_counts": {
+    "source_assets": 29,
+    "imported_edition_files": 28,
+    "cover_assets": 1,
+    "languages": 7,
+    "formats_per_language": 4,
+    "generated_root_files": 15,
+    "generated_metadata_files": 12,
+    "generated_hash_manifests": 4,
+    "md": 7,
+    "pdf": 7,
+    "epub": 7,
+    "fb2": 7
+  },
+  "created_publicly_on": "2026-04-18",
+  "human_metadata_files": [
+    "README.md",
+    "CORPUS_CONTEXT.md",
+    "DOWNLOADS.md",
+    "RELEASE_STATUS.md",
+    "REPO_INDEX.md",
+    "MACHINE_ENTRY.md",
+    "llms.txt",
+    "llms-full.txt",
+    "metadata/HUMAN_ENTRY.md",
+    "metadata/ASSET_MAP.md",
+    "metadata/SCHEMA_NOTES.md",
+    "metadata/SOURCE_PROVENANCE.md",
+    "metadata/RELEASE_MATRIX_VOLUME_II.md",
+    "metadata/VERSION_DRIFT_REPORT.md",
+    "metadata/NAMING_DRIFT_REPORT.md",
+    "metadata/EXEC_SUMMARY_FIX.md",
+    "metadata/EXISTING_REPOS_PREFLIGHT_STATUS.md",
+    "metadata/PUBLICATION_LOG.md",
+    "CITATION.cff",
+    "LICENSE.txt",
+    "NOTICE.txt"
+  ],
+  "imported_asset_manifest": "hashes/SHA256SUMS.source-tree.txt",
+  "language_status_summary": {
+    "complete_bundles": [
+      "ru",
+      "fr",
+      "es",
+      "de",
+      "en",
+      "nl",
+      "zh-CN"
+    ],
+    "provisional_bundles": [
+      "fr",
+      "nl"
+    ],
+    "notes": [
+      "All seven bundles are complete across md, pdf, epub, and fb2.",
+      "French naming drift and Dutch EPUB _2026 drift are documented and preserved literally."
+    ]
+  },
+  "machine_metadata_files": [
+    "CITATION.cff",
+    "MACHINE_ENTRY.md",
+    "llms.txt",
+    "llms-full.txt",
+    "REPO_INDEX.json",
+    "BOOK_METADATA.json",
+    "EDITIONS_MATRIX.json",
+    "RIGHTS.json",
+    "MANIFEST.json",
+    "metadata/ASSET_MAP.json",
+    "metadata/RELEASE_STATUS.json"
+  ],
+  "notes": [
+    "Source filenames are preserved literally.",
+    "French drift is documented, not normalized.",
+    "Dutch EPUB _2026 drift is documented, not normalized.",
+    "Initial public GitHub publication performed on main."
+  ],
+  "repo_all_manifest": "hashes/SHA256SUMS.repo-all.txt",
+  "repo_full_name": "Kot141078/qubit-of-hope-volume-ii",
+  "repo_layout_manifest": "hashes/SHA256SUMS.repo-layout.txt",
+  "corpus_role": "human-facing narrative companion / perception bridge for c as a new class of AI beyond purely instrumental framing",
+  "canonical_context_file": "CORPUS_CONTEXT.md",
+  "corpus_primer_ref": "https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/CORPUS_PRIMER.json",
+  "stack_lock_ref": "https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/STACK_LOCK_2026-04-12.json",
+  "canonical_distinctions_ref": "https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/CANONICAL_DISTINCTIONS.md",
+  "objections_and_replies_ref": "https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/OBJECTIONS_AND_REPLIES.md",
+  "citation_and_verification_ref": "https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/CITATION_AND_VERIFICATION.md",
+  "claims_and_evidence_map_ref": "https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/CLAIMS_AND_EVIDENCE_MAP.md",
+  "status_and_maturity_map_ref": "https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/STATUS_AND_MATURITY_MAP.md",
+  "related_repositories": [
+    "Kot141078/advanced-global-intelligence",
+    "Kot141078/ester-reality-bound",
+    "Kot141078/sovereign-entity-recursion",
+    "Kot141078/ester-clean-code",
+    "https://github.com/Kot141078/qubit-of-hope-volume-i"
+  ]
+}

@@ -1,0 +1,9 @@
+Qubit of Hope — Volume II
+Author: Kotov Ivan
+Brussels — 2026
+Repository role: multilingual public reading repository for Volume II
+Imported filenames are preserved literally.
+Drift is documented in metadata/.
+All rights reserved.
+Machine-readable rights: RIGHTS.json
+Human-readable rights notice: LICENSE.txt

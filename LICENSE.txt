@@ -1,0 +1,15 @@
+Qubit of Hope — Volume II
+Copyright © 2026 Kotov Ivan
+Brussels — 2026
+
+All rights reserved.
+
+This repository is published for public reading and citation support.
+No part of the works contained in this repository may be redistributed, mirrored, translated, adapted, transformed into derivative works, used commercially, or republished without prior written permission of the copyright holder.
+
+Allowed without prior permission:
+- reading the repository in its published form;
+- local download for personal reading;
+- short quotation where permitted by applicable law.
+
+See RIGHTS.json for machine-readable rights metadata.

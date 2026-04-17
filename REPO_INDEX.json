@@ -1,0 +1,168 @@
+{
+  "aligned_bundles": [
+    "ru",
+    "es",
+    "de",
+    "en",
+    "zh-CN"
+  ],
+  "author": "Kotov Ivan",
+  "citation_file": "CITATION.cff",
+  "city": "Brussels",
+  "default_branch": "main",
+  "downloads_file": "DOWNLOADS.md",
+  "directories": [
+    "covers",
+    "editions",
+    "hashes",
+    "metadata"
+  ],
+  "integrity_files": [
+    "hashes/SHA256SUMS.metadata-only.txt",
+    "hashes/SHA256SUMS.repo-all.txt",
+    "hashes/SHA256SUMS.repo-layout.txt",
+    "hashes/SHA256SUMS.source-tree.txt"
+  ],
+  "key_human_files": [
+    "README.md",
+    "DOWNLOADS.md",
+    "RELEASE_STATUS.md",
+    "REPO_INDEX.md",
+    "MACHINE_ENTRY.md",
+    "CORPUS_CONTEXT.md"
+  ],
+  "key_machine_files": [
+    "BOOK_METADATA.json",
+    "EDITIONS_MATRIX.json",
+    "MANIFEST.json",
+    "REPO_INDEX.json",
+    "RIGHTS.json",
+    "metadata/ASSET_MAP.json",
+    "metadata/RELEASE_STATUS.json"
+  ],
+  "language_editions": [
+    {
+      "language": "ru",
+      "formats": [
+        "md",
+        "pdf",
+        "epub",
+        "fb2"
+      ],
+      "notes": "literal import",
+      "status": "aligned"
+    },
+    {
+      "language": "fr",
+      "formats": [
+        "md",
+        "pdf",
+        "epub",
+        "fb2"
+      ],
+      "notes": "source stem family is Qubit_d_espoir_Tome_II_*; drift documented",
+      "status": "provisional"
+    },
+    {
+      "language": "es",
+      "formats": [
+        "md",
+        "pdf",
+        "epub",
+        "fb2"
+      ],
+      "notes": "literal import",
+      "status": "aligned"
+    },
+    {
+      "language": "de",
+      "formats": [
+        "md",
+        "pdf",
+        "epub",
+        "fb2"
+      ],
+      "notes": "literal import",
+      "status": "aligned"
+    },
+    {
+      "language": "en",
+      "formats": [
+        "md",
+        "pdf",
+        "epub",
+        "fb2"
+      ],
+      "notes": "literal import",
+      "status": "aligned"
+    },
+    {
+      "language": "nl",
+      "formats": [
+        "md",
+        "pdf",
+        "epub",
+        "fb2"
+      ],
+      "notes": "EPUB filename carries _2026 suffix; drift documented",
+      "status": "provisional"
+    },
+    {
+      "language": "zh-CN",
+      "formats": [
+        "md",
+        "pdf",
+        "epub",
+        "fb2"
+      ],
+      "notes": "literal import",
+      "status": "aligned"
+    }
+  ],
+  "llm_entry_files": [
+    "llms.txt",
+    "llms-full.txt"
+  ],
+  "notes": [
+    "Literal filename preservation.",
+    "No silent normalization.",
+    "Drift documented in metadata.",
+    "Initial public GitHub publication on main; no release tag yet.",
+    "Rights aligned to all rights reserved."
+  ],
+  "provisional_bundles": [
+    "fr",
+    "nl"
+  ],
+  "reading_formats": [
+    "md",
+    "pdf",
+    "epub",
+    "fb2"
+  ],
+  "release_status_file": "RELEASE_STATUS.md",
+  "repo_full_name": "Kot141078/qubit-of-hope-volume-ii",
+  "repo_name": "qubit-of-hope-volume-ii",
+  "repo_type": "book-reading-repository",
+  "corpus_role": "human-facing narrative companion / perception bridge for c as a new class of AI beyond purely instrumental framing",
+  "canonical_context_file": "CORPUS_CONTEXT.md",
+  "corpus_primer_ref": "https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/CORPUS_PRIMER.json",
+  "stack_lock_ref": "https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/STACK_LOCK_2026-04-12.json",
+  "canonical_distinctions_ref": "https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/CANONICAL_DISTINCTIONS.md",
+  "objections_and_replies_ref": "https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/OBJECTIONS_AND_REPLIES.md",
+  "citation_and_verification_ref": "https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/CITATION_AND_VERIFICATION.md",
+  "claims_and_evidence_map_ref": "https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/CLAIMS_AND_EVIDENCE_MAP.md",
+  "status_and_maturity_map_ref": "https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/STATUS_AND_MATURITY_MAP.md",
+  "related_repositories": [
+    "Kot141078/advanced-global-intelligence",
+    "Kot141078/ester-reality-bound",
+    "Kot141078/sovereign-entity-recursion",
+    "Kot141078/ester-clean-code",
+    "https://github.com/Kot141078/qubit-of-hope-volume-i"
+  ],
+  "rights": "RIGHTS.json",
+  "source_provenance_file": "metadata/SOURCE_PROVENANCE.md",
+  "title": "Qubit of Hope — Volume II",
+  "visibility": "public",
+  "year": 2026
+}

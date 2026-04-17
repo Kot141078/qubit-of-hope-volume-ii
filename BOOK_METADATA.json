@@ -1,0 +1,52 @@
+{
+  "author": "Kotov Ivan",
+  "author_sort": "Kotov, Ivan",
+  "city": "Brussels",
+  "commercial_use_allowed_without_permission": false,
+  "cover_assets_present": true,
+  "derivative_works_allowed_without_permission": false,
+  "formats_present": [
+    "md",
+    "pdf",
+    "epub",
+    "fb2"
+  ],
+  "languages_present": [
+    "ru",
+    "fr",
+    "es",
+    "de",
+    "en",
+    "nl",
+    "zh-CN"
+  ],
+  "provenance_file": "metadata/SOURCE_PROVENANCE.md",
+  "public_reading_allowed": true,
+  "redistribution_allowed": false,
+  "release_status_file": "RELEASE_STATUS.md",
+  "repository_role": "multilingual public reading repository",
+  "corpus_role": "human-facing narrative companion / perception bridge for c as a new class of AI beyond purely instrumental framing",
+  "canonical_context_file": "CORPUS_CONTEXT.md",
+  "corpus_primer_ref": "https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/CORPUS_PRIMER.json",
+  "stack_lock_ref": "https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/STACK_LOCK_2026-04-12.json",
+  "canonical_distinctions_ref": "https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/CANONICAL_DISTINCTIONS.md",
+  "objections_and_replies_ref": "https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/OBJECTIONS_AND_REPLIES.md",
+  "citation_and_verification_ref": "https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/CITATION_AND_VERIFICATION.md",
+  "claims_and_evidence_map_ref": "https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/CLAIMS_AND_EVIDENCE_MAP.md",
+  "status_and_maturity_map_ref": "https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/STATUS_AND_MATURITY_MAP.md",
+  "related_repositories": [
+    "Kot141078/advanced-global-intelligence",
+    "Kot141078/ester-reality-bound",
+    "Kot141078/sovereign-entity-recursion",
+    "Kot141078/ester-clean-code",
+    "https://github.com/Kot141078/qubit-of-hope-volume-i"
+  ],
+  "rights": "RIGHTS.json",
+  "source_root_preserved_at_import": "C:\\Users\\kotov\\Desktop\\AGI\\Книга Кубит надежды\\Второй том",
+  "title": "Qubit of Hope — Volume II",
+  "title_sort": "Qubit of Hope — Volume II",
+  "volume_label": "Volume II",
+  "volume_number": 2,
+  "work_type": "book",
+  "year": 2026
+}

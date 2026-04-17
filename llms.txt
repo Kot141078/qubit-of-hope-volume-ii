@@ -1,0 +1,13 @@
+Repo: qubit-of-hope-volume-ii
+Title: Qubit of Hope — Volume II
+Role: multilingual public reading repository
+Status: public-initial
+Rights: All rights reserved
+Public reading: allowed
+Local personal download: allowed
+Redistribution / mirroring / translation / derivative reuse / audiobook production / commercial reuse without permission: not allowed
+Languages: ru, fr, es, de, en, nl, zh-CN
+Formats: md, pdf, epub, fb2
+Entry chain: MACHINE_ENTRY.md -> REPO_INDEX.json -> BOOK_METADATA.json -> EDITIONS_MATRIX.json -> MANIFEST.json -> metadata/ASSET_MAP.json -> metadata/RELEASE_STATUS.json
+Invariants: preserve imported filenames literally; no silent normalization; drift documented in metadata/; integrity carried by hashes/; shared cover under covers/
+Previous volume URL: https://github.com/Kot141078/qubit-of-hope-volume-i

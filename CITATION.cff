@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you cite this public reading repository or the book editions it preserves, please cite the repository and name the author. All rights reserved."
+title: "Qubit of Hope — Volume II"
+type: book
+authors:
+  - family-names: "Kotov"
+    given-names: "Ivan"
+    alias: "Ivan Kotov"
+repository-code: "https://github.com/Kot141078/qubit-of-hope-volume-ii"
+license: "All rights reserved"
+abstract: >
+  Multilingual public reading repository for Qubit of Hope — Volume II. This repository preserves imported publication assets in Russian, French, Spanish, German, English, Dutch, and Simplified Chinese, exposes them in canonical reader and machine-readable layout, documents naming/version drift instead of silently normalizing it, and remains all rights reserved.
+keywords:
+  - Qubit of Hope
+  - Volume II
+  - multilingual
+  - book
+  - reading repository
+  - provenance
+  - continuity
+  - L4
+version: "public-initial"
+date-released: 2026-04-18

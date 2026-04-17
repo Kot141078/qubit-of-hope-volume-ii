@@ -1,0 +1,72 @@
+[
+  {
+    "language_code": "ru",
+    "language_label": "Russian",
+    "md": "present",
+    "pdf": "present",
+    "epub": "present",
+    "fb2": "present",
+    "bundle_status": "complete",
+    "notes": "literal import"
+  },
+  {
+    "language_code": "fr",
+    "language_label": "French",
+    "md": "present",
+    "pdf": "present",
+    "epub": "present",
+    "fb2": "present",
+    "bundle_status": "complete",
+    "notes": "stem drift documented"
+  },
+  {
+    "language_code": "es",
+    "language_label": "Spanish",
+    "md": "present",
+    "pdf": "present",
+    "epub": "present",
+    "fb2": "present",
+    "bundle_status": "complete",
+    "notes": "literal import"
+  },
+  {
+    "language_code": "de",
+    "language_label": "German",
+    "md": "present",
+    "pdf": "present",
+    "epub": "present",
+    "fb2": "present",
+    "bundle_status": "complete",
+    "notes": "literal import"
+  },
+  {
+    "language_code": "en",
+    "language_label": "English",
+    "md": "present",
+    "pdf": "present",
+    "epub": "present",
+    "fb2": "present",
+    "bundle_status": "complete",
+    "notes": "literal import"
+  },
+  {
+    "language_code": "nl",
+    "language_label": "Dutch",
+    "md": "present",
+    "pdf": "present",
+    "epub": "present",
+    "fb2": "present",
+    "bundle_status": "complete",
+    "notes": "epub _2026 drift documented"
+  },
+  {
+    "language_code": "zh-CN",
+    "language_label": "Simplified Chinese",
+    "md": "present",
+    "pdf": "present",
+    "epub": "present",
+    "fb2": "present",
+    "bundle_status": "complete",
+    "notes": "literal import"
+  }
+]

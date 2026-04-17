@@ -1,0 +1,19 @@
+{
+  "audiobook_permitted_without_permission": false,
+  "authoritative_human_files": [
+    "LICENSE.txt",
+    "NOTICE.txt"
+  ],
+  "citation_of_short_excerpts_subject_to_law": true,
+  "commercial_use_permitted_without_permission": false,
+  "copyright_holder": "Kotov Ivan",
+  "copyright_year": 2026,
+  "derivative_works_permitted_without_permission": false,
+  "local_download_for_personal_reading_permitted": true,
+  "mirror_upload_permitted_without_permission": false,
+  "personal_reading_permitted": true,
+  "public_repository": true,
+  "redistribution_permitted_without_permission": false,
+  "rights_model": "all-rights-reserved",
+  "translation_permitted_without_permission": false
+}

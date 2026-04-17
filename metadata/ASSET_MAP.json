@@ -1,0 +1,206 @@
+{
+  "cover_assets": [
+    {
+      "filename": "Qubit of Hope vol II Cover.png",
+      "repo_path": "covers/Qubit of Hope vol II Cover.png",
+      "size_bytes": 2533416
+    }
+  ],
+  "formats": [
+    "md",
+    "pdf",
+    "epub",
+    "fb2"
+  ],
+  "languages": [
+    {
+      "code": "ru",
+      "label": "Russian",
+      "files": {
+        "md": {
+          "source_filename": "Kubit_nadezhdy_Tom_II_ru.md",
+          "repo_path": "editions/ru/md/Kubit_nadezhdy_Tom_II_ru.md",
+          "size_bytes": 581788
+        },
+        "pdf": {
+          "source_filename": "Kubit_nadezhdy_Tom_II_ru.pdf",
+          "repo_path": "editions/ru/pdf/Kubit_nadezhdy_Tom_II_ru.pdf",
+          "size_bytes": 530559
+        },
+        "epub": {
+          "source_filename": "Kubit_nadezhdy_Tom_II_ru.epub",
+          "repo_path": "editions/ru/epub/Kubit_nadezhdy_Tom_II_ru.epub",
+          "size_bytes": 207517
+        },
+        "fb2": {
+          "source_filename": "Kubit_nadezhdy_Tom_II_ru.fb2",
+          "repo_path": "editions/ru/fb2/Kubit_nadezhdy_Tom_II_ru.fb2",
+          "size_bytes": 649744
+        }
+      },
+      "notes": "literal import"
+    },
+    {
+      "code": "fr",
+      "label": "French",
+      "files": {
+        "md": {
+          "source_filename": "Qubit_d_espoir_Tome_II_fr.md",
+          "repo_path": "editions/fr/md/Qubit_d_espoir_Tome_II_fr.md",
+          "size_bytes": 424948
+        },
+        "pdf": {
+          "source_filename": "Qubit_d_espoir_Tome_II_fr.pdf",
+          "repo_path": "editions/fr/pdf/Qubit_d_espoir_Tome_II_fr.pdf",
+          "size_bytes": 608321
+        },
+        "epub": {
+          "source_filename": "Qubit_d_espoir_Tome_II_fr.epub",
+          "repo_path": "editions/fr/epub/Qubit_d_espoir_Tome_II_fr.epub",
+          "size_bytes": 190155
+        },
+        "fb2": {
+          "source_filename": "Qubit_d_espoir_Tome_II_fr.fb2",
+          "repo_path": "editions/fr/fb2/Qubit_d_espoir_Tome_II_fr.fb2",
+          "size_bytes": 492109
+        }
+      },
+      "notes": "stem drift documented"
+    },
+    {
+      "code": "es",
+      "label": "Spanish",
+      "files": {
+        "md": {
+          "source_filename": "Qubit_de_la_esperanza_Tomo_II_es.md",
+          "repo_path": "editions/es/md/Qubit_de_la_esperanza_Tomo_II_es.md",
+          "size_bytes": 385339
+        },
+        "pdf": {
+          "source_filename": "Qubit_de_la_esperanza_Tomo_II_es.pdf",
+          "repo_path": "editions/es/pdf/Qubit_de_la_esperanza_Tomo_II_es.pdf",
+          "size_bytes": 536667
+        },
+        "epub": {
+          "source_filename": "Qubit_de_la_esperanza_Tomo_II_es.epub",
+          "repo_path": "editions/es/epub/Qubit_de_la_esperanza_Tomo_II_es.epub",
+          "size_bytes": 182022
+        },
+        "fb2": {
+          "source_filename": "Qubit_de_la_esperanza_Tomo_II_es.fb2",
+          "repo_path": "editions/es/fb2/Qubit_de_la_esperanza_Tomo_II_es.fb2",
+          "size_bytes": 444174
+        }
+      },
+      "notes": "literal import"
+    },
+    {
+      "code": "de",
+      "label": "German",
+      "files": {
+        "md": {
+          "source_filename": "Qubit_der_Hoffnung_Band_II_de.md",
+          "repo_path": "editions/de/md/Qubit_der_Hoffnung_Band_II_de.md",
+          "size_bytes": 396871
+        },
+        "pdf": {
+          "source_filename": "Qubit_der_Hoffnung_Band_II_de.pdf",
+          "repo_path": "editions/de/pdf/Qubit_der_Hoffnung_Band_II_de.pdf",
+          "size_bytes": 541545
+        },
+        "epub": {
+          "source_filename": "Qubit_der_Hoffnung_Band_II_de.epub",
+          "repo_path": "editions/de/epub/Qubit_der_Hoffnung_Band_II_de.epub",
+          "size_bytes": 184331
+        },
+        "fb2": {
+          "source_filename": "Qubit_der_Hoffnung_Band_II_de.fb2",
+          "repo_path": "editions/de/fb2/Qubit_der_Hoffnung_Band_II_de.fb2",
+          "size_bytes": 453367
+        }
+      },
+      "notes": "literal import"
+    },
+    {
+      "code": "en",
+      "label": "English",
+      "files": {
+        "md": {
+          "source_filename": "Qubit_of_Hope_Volume_II_en.md",
+          "repo_path": "editions/en/md/Qubit_of_Hope_Volume_II_en.md",
+          "size_bytes": 380755
+        },
+        "pdf": {
+          "source_filename": "Qubit_of_Hope_Volume_II_en.pdf",
+          "repo_path": "editions/en/pdf/Qubit_of_Hope_Volume_II_en.pdf",
+          "size_bytes": 603145
+        },
+        "epub": {
+          "source_filename": "Qubit_of_Hope_Volume_II_en.epub",
+          "repo_path": "editions/en/epub/Qubit_of_Hope_Volume_II_en.epub",
+          "size_bytes": 208852
+        },
+        "fb2": {
+          "source_filename": "Qubit_of_Hope_Volume_II_en.fb2",
+          "repo_path": "editions/en/fb2/Qubit_of_Hope_Volume_II_en.fb2",
+          "size_bytes": 448896
+        }
+      },
+      "notes": "literal import"
+    },
+    {
+      "code": "nl",
+      "label": "Dutch",
+      "files": {
+        "md": {
+          "source_filename": "Qubit_van_hoop_Deel_II_nl.md",
+          "repo_path": "editions/nl/md/Qubit_van_hoop_Deel_II_nl.md",
+          "size_bytes": 390815
+        },
+        "pdf": {
+          "source_filename": "Qubit_van_hoop_Deel_II_nl.pdf",
+          "repo_path": "editions/nl/pdf/Qubit_van_hoop_Deel_II_nl.pdf",
+          "size_bytes": 550851
+        },
+        "epub": {
+          "source_filename": "Qubit_van_hoop_Deel_II_nl_2026.epub",
+          "repo_path": "editions/nl/epub/Qubit_van_hoop_Deel_II_nl_2026.epub",
+          "size_bytes": 214702
+        },
+        "fb2": {
+          "source_filename": "Qubit_van_hoop_Deel_II_nl.fb2",
+          "repo_path": "editions/nl/fb2/Qubit_van_hoop_Deel_II_nl.fb2",
+          "size_bytes": 457992
+        }
+      },
+      "notes": "epub _2026 drift documented"
+    },
+    {
+      "code": "zh-CN",
+      "label": "Simplified Chinese",
+      "files": {
+        "md": {
+          "source_filename": "Qubit_xiwang_Tom_II_zh-CN.md",
+          "repo_path": "editions/zh-CN/md/Qubit_xiwang_Tom_II_zh-CN.md",
+          "size_bytes": 376676
+        },
+        "pdf": {
+          "source_filename": "Qubit_xiwang_Tom_II_zh-CN.pdf",
+          "repo_path": "editions/zh-CN/pdf/Qubit_xiwang_Tom_II_zh-CN.pdf",
+          "size_bytes": 914062
+        },
+        "epub": {
+          "source_filename": "Qubit_xiwang_Tom_II_zh-CN.epub",
+          "repo_path": "editions/zh-CN/epub/Qubit_xiwang_Tom_II_zh-CN.epub",
+          "size_bytes": 191770
+        },
+        "fb2": {
+          "source_filename": "Qubit_xiwang_Tom_II_zh-CN.fb2",
+          "repo_path": "editions/zh-CN/fb2/Qubit_xiwang_Tom_II_zh-CN.fb2",
+          "size_bytes": 440343
+        }
+      },
+      "notes": "literal import"
+    }
+  ]
+}

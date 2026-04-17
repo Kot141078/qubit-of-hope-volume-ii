@@ -1,0 +1,75 @@
+Repo: qubit-of-hope-volume-ii
+Title: Qubit of Hope — Volume II
+Status: public-initial
+
+Publication state:
+- publicly published on GitHub main branch
+- no release tag yet
+- rights remain all rights reserved
+
+What this repo is:
+- multilingual public reading repository for Volume II
+- stable container for imported publication assets
+- canonical reader and machine-readable layout over a flat source pack
+- provenance and drift layer with visible integrity manifests
+- reader-facing repository with restrictive rights
+
+What this repo is not:
+- drafting workspace
+- translation workbench
+- source-normalization sandbox
+- silent rename zone
+
+Key files:
+- README.md
+- DOWNLOADS.md
+- RELEASE_STATUS.md
+- MACHINE_ENTRY.md
+- REPO_INDEX.json
+- BOOK_METADATA.json
+- EDITIONS_MATRIX.json
+- MANIFEST.json
+- RIGHTS.json
+- metadata/ASSET_MAP.json
+- metadata/RELEASE_STATUS.json
+- metadata/SOURCE_PROVENANCE.md
+
+Language coverage:
+- ru
+- fr
+- es
+- de
+- en
+- nl
+- zh-CN
+
+Format coverage:
+- md
+- pdf
+- epub
+- fb2
+
+Integrity files:
+- hashes/SHA256SUMS.metadata-only.txt
+- hashes/SHA256SUMS.repo-all.txt
+- hashes/SHA256SUMS.repo-layout.txt
+- hashes/SHA256SUMS.source-tree.txt
+
+Rights:
+- all rights reserved
+- public reading in repository: allowed
+- local personal download: allowed
+- redistribution / mirroring / translation / derivative reuse / audiobook production / commercial reuse without permission: not allowed
+- no silent reuse assumption
+- authoritative rights file: RIGHTS.json
+- human notice: LICENSE.txt
+
+Provenance rule:
+- preserve source filenames literally and record exact source-to-repo mapping
+
+Drift rule:
+- document drift in metadata/
+- do not silently normalize filenames
+
+Previous volume URL:
+- https://github.com/Kot141078/qubit-of-hope-volume-i
