@@ -159,8 +159,11 @@
     "Kot141078/ester-reality-bound",
     "Kot141078/sovereign-entity-recursion",
     "Kot141078/ester-clean-code",
-    "https://github.com/Kot141078/qubit-of-hope-volume-i"
+    "https://github.com/Kot141078/qubit-of-hope-volume-i",
+    "https://github.com/Kot141078/qubit-of-hope-volume-ii",
+    "https://github.com/Kot141078/qubit-of-hope-volume-iii"
   ],
+  "trilogy_order": 2,
   "rights": "RIGHTS.json",
   "source_provenance_file": "metadata/SOURCE_PROVENANCE.md",
   "title": "Qubit of Hope — Volume II",

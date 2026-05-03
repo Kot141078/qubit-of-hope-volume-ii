@@ -8,6 +8,12 @@ Public reading and preservation repository for Volume II.
 
 Human-readable and machine-navigable book-layer repository for Qubit of Hope — Volume II.
 
+## Trilogy
+
+- Volume I: `https://github.com/Kot141078/qubit-of-hope-volume-i`
+- Volume II: `https://github.com/Kot141078/qubit-of-hope-volume-ii`
+- Volume III: `https://github.com/Kot141078/qubit-of-hope-volume-iii`
+
 ## Rights
 
 All rights reserved.

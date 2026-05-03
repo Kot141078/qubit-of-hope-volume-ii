@@ -62,7 +62,11 @@ Documented drift carried forward:
 
 - French naming drift: source stem family is `Qubit_d_espoir_Tome_II_*`, while the previous volume used `Qubit_de_l_espoir_*`.
 - Dutch EPUB drift: `Qubit_van_hoop_Deel_II_nl_2026.epub` carries an extra `_2026` suffix.
-- Previous volume: `https://github.com/Kot141078/qubit-of-hope-volume-i`
+## Trilogy
+
+- Volume I: `https://github.com/Kot141078/qubit-of-hope-volume-i`
+- Volume II: `https://github.com/Kot141078/qubit-of-hope-volume-ii`
+- Volume III: `https://github.com/Kot141078/qubit-of-hope-volume-iii`
 
 ## Machine-readable metadata
 
