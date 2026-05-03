@@ -1,5 +1,13 @@
 # Repository Index
 
+## Release state
+
+Latest release: `v1.0.1`.
+Previous release: `v1.0.0`.
+Patch type: metadata-only / navigation-only / trilogy bridge alignment.
+No reading edition files or cover assets were changed in this patch.
+Release URL: `https://github.com/Kot141078/qubit-of-hope-volume-ii/releases/tag/v1.0.1`
+
 ## Repository purpose
 
 Public reading and preservation repository for Volume II.

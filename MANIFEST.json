@@ -89,13 +89,26 @@
   "citation_and_verification_ref": "https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/CITATION_AND_VERIFICATION.md",
   "claims_and_evidence_map_ref": "https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/CLAIMS_AND_EVIDENCE_MAP.md",
   "status_and_maturity_map_ref": "https://raw.githubusercontent.com/Kot141078/advanced-global-intelligence/main/STATUS_AND_MATURITY_MAP.md",
-  "related_repositories": [
-    "Kot141078/advanced-global-intelligence",
-    "Kot141078/ester-reality-bound",
-    "Kot141078/sovereign-entity-recursion",
-    "Kot141078/ester-clean-code",
-    "https://github.com/Kot141078/qubit-of-hope-volume-i",
-    "https://github.com/Kot141078/qubit-of-hope-volume-ii",
-    "https://github.com/Kot141078/qubit-of-hope-volume-iii"
-  ]
+  "related_repositories": {
+    "volume_i": "https://github.com/Kot141078/qubit-of-hope-volume-i",
+    "volume_ii": "https://github.com/Kot141078/qubit-of-hope-volume-ii",
+    "volume_iii": "https://github.com/Kot141078/qubit-of-hope-volume-iii"
+  },
+  "repository": "https://github.com/Kot141078/qubit-of-hope-volume-ii",
+  "rights": "RIGHTS.json",
+  "volume_number": 2,
+  "trilogy_order": 2,
+  "latest_release": "v1.0.1",
+  "previous_release": "v1.0.0",
+  "patch_type": "metadata-only / navigation-only / trilogy bridge alignment",
+  "release_date": "2026-05-03",
+  "release": {
+    "latest_release": "v1.0.1",
+    "previous_release": "v1.0.0",
+    "patch_type": "metadata-only / navigation-only / trilogy bridge alignment",
+    "latest_release_url": "https://github.com/Kot141078/qubit-of-hope-volume-ii/releases/tag/v1.0.1",
+    "previous_release_url": "https://github.com/Kot141078/qubit-of-hope-volume-ii/releases/tag/v1.0.0",
+    "release_date": "2026-05-03"
+  },
+  "rights_file": "RIGHTS.json"
 }

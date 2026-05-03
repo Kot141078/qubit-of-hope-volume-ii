@@ -1,31 +1,24 @@
-# Release Status — Volume II
+# Release Status
 
-## Current edition status
+Current repository state: formal public release.
 
-| language | md | pdf | epub | fb2 | bundle_status | notes |
-|---|---|---|---|---|---|---|
-| ru | present | present | present | present | complete | literal import |
-| fr | present | present | present | present | complete | stem drift documented |
-| es | present | present | present | present | complete | literal import |
-| de | present | present | present | present | complete | literal import |
-| en | present | present | present | present | complete | literal import |
-| nl | present | present | present | present | complete | epub _2026 drift documented |
-| zh-CN | present | present | present | present | complete | literal import |
+Latest GitHub Release: v1.0.1.
 
-## Reading note
+Previous release: v1.0.0.
 
-- source pack was flat
-- repo layout is canonical but filenames preserved as imported
-- no silent normalization
-- rights model: All rights reserved; see RIGHTS.json and LICENSE.txt
+Patch type: metadata-only / navigation-only / trilogy bridge alignment.
 
-## Metadata
+Release date: 2026-05-03.
 
-- current tagged repo state: v1.0.0
-- `BOOK_METADATA.json`
-- `EDITIONS_MATRIX.json`
-- `MANIFEST.json`
-- `REPO_INDEX.json`
-- `metadata/ASSET_MAP.json`
-- `metadata/RELEASE_STATUS.json`
-- `metadata/SOURCE_PROVENANCE.md`
+Rights: All rights reserved.
+
+No reading edition files or cover assets were changed in this patch.
+
+Public reading and personal local download are allowed.
+
+Redistribution, mirroring, translation, derivative works, audiobook production, and commercial reuse require prior written permission from Ivan Kotov.
+
+This is not open source, not Creative Commons, and not public domain.
+
+Repository:
+https://github.com/Kot141078/qubit-of-hope-volume-ii

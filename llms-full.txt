@@ -1,3 +1,13 @@
+## Release state
+
+Latest release: v1.0.1
+Previous release: v1.0.0
+Patch: metadata-only / navigation-only / trilogy bridge alignment
+Repository: https://github.com/Kot141078/qubit-of-hope-volume-ii
+Volume I: https://github.com/Kot141078/qubit-of-hope-volume-i
+Volume II: https://github.com/Kot141078/qubit-of-hope-volume-ii
+Volume III: https://github.com/Kot141078/qubit-of-hope-volume-iii
+
 Repo: qubit-of-hope-volume-ii
 Title: Qubit of Hope — Volume II
 Status: public-release-v1.0.0
