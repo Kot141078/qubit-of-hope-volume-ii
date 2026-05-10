@@ -9,6 +9,23 @@
   "translation_allowed_without_permission": false,
   "derivative_works_allowed_without_permission": false,
   "audiobook_production_allowed_without_permission": false,
+  "media_adaptation_allowed_without_permission": false,
+  "film_adaptation_allowed_without_permission": false,
+  "television_adaptation_allowed_without_permission": false,
+  "streaming_series_adaptation_allowed_without_permission": false,
+  "animation_adaptation_allowed_without_permission": false,
+  "ai_generated_audiovisual_adaptation_allowed_without_permission": false,
+  "generative_video_adaptation_allowed_without_permission": false,
+  "screenplay_adaptation_allowed_without_permission": false,
+  "dramatization_allowed_without_permission": false,
+  "comic_or_graphic_novel_adaptation_allowed_without_permission": false,
+  "game_adaptation_allowed_without_permission": false,
+  "interactive_adaptation_allowed_without_permission": false,
+  "vr_ar_adaptation_allowed_without_permission": false,
+  "synthetic_actor_or_synthetic_performance_adaptation_allowed_without_permission": false,
+  "character_licensing_allowed_without_permission": false,
+  "merchandising_allowed_without_permission": false,
+  "worldbuilding_or_franchise_exploitation_allowed_without_permission": false,
   "commercial_reuse_allowed_without_permission": false,
   "ai_training_allowed_without_permission": false,
   "machine_learning_dataset_use_allowed_without_permission": false,
@@ -20,10 +37,12 @@
   "citation_of_short_excerpts_subject_to_law": true,
   "permission_contact": "Ivan Kotov",
   "audiobook_rights_file": "AUDIOBOOK_RIGHTS.md",
+  "media_adaptation_rights_file": "MEDIA_ADAPTATION_RIGHTS.md",
   "authoritative_human_files": [
     "LICENSE.txt",
     "NOTICE.txt",
     "README.md",
-    "AUDIOBOOK_RIGHTS.md"
+    "AUDIOBOOK_RIGHTS.md",
+    "MEDIA_ADAPTATION_RIGHTS.md"
   ]
 }

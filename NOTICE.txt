@@ -7,6 +7,8 @@ Drift is documented in metadata/.
 All rights reserved.
 This repository is not open source, not Creative Commons, and not public domain.
 Do not redistribute, mirror, republish, translate, adapt, create derivative works, produce audiobook editions, use for AI training, ingest into machine-learning datasets or third-party corpus packages, use for voice cloning or synthetic voice production, or use commercially without prior written permission from Ivan Kotov.
+Do not create film, television, streaming series, animation, AI-generated audiovisual, generative video, screenplay, dramatization, comic, graphic novel, game, interactive, virtual reality, augmented reality, synthetic actor, synthetic performance, merchandising, character licensing, worldbuilding, franchise, or other media adaptations without prior written permission from Ivan Kotov.
 Machine-readable rights: RIGHTS.json
 Human-readable rights notice: LICENSE.txt
 Audiobook rights notice: AUDIOBOOK_RIGHTS.md
+For media adaptation rights, see MEDIA_ADAPTATION_RIGHTS.md.

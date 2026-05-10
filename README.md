@@ -27,11 +27,23 @@ See [DOWNLOADS.md](DOWNLOADS.md) for direct per-language links.
 ## Rights
 
 All rights reserved.
-Public reading in repository: yes.
-Local download for personal reading: yes.
-Redistribution, mirroring, republication, translation, derivative works, adaptation, audiobook production, AI training, corpus ingestion for third-party dataset redistribution, dataset redistribution, and commercial reuse without prior written permission: no.
+
+Public reading in this repository and personal local download for reading are allowed.
+
+Redistribution, mirroring, translation, derivative works, audiobook production, media adaptation, corpus ingestion for third-party dataset redistribution, AI training dataset redistribution, republication under another license, and commercial reuse require prior written permission from Ivan Kotov.
+
+All film, television, streaming series, animation, AI-generated audiovisual adaptation, generative video, screenplay, dramatization, comic, graphic novel, game, interactive, VR/AR, synthetic performance, merchandising, character licensing, worldbuilding, franchise, and other media adaptation rights are expressly reserved.
+
 This is not an open-source, Creative Commons, public-domain, or free-reuse repository.
-See [RIGHTS.json](RIGHTS.json), [LICENSE.txt](LICENSE.txt), [NOTICE.txt](NOTICE.txt), and [AUDIOBOOK_RIGHTS.md](AUDIOBOOK_RIGHTS.md).
+
+See:
+
+- [LICENSE.txt](LICENSE.txt)
+- [NOTICE.txt](NOTICE.txt)
+- [AUDIOBOOK_RIGHTS.md](AUDIOBOOK_RIGHTS.md)
+- [MEDIA_ADAPTATION_RIGHTS.md](MEDIA_ADAPTATION_RIGHTS.md)
+- [RIGHTS.json](RIGHTS.json)
+- [DOWNLOADS.md](DOWNLOADS.md)
 
 ## Current status
 

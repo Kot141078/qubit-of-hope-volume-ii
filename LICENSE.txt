@@ -11,9 +11,13 @@ This is not public domain.
 
 No part of the works contained in this repository may be redistributed, mirrored, republished, translated, adapted, transformed into derivative works, used for audiobook production, used for AI training, used for machine-learning datasets, ingested into a corpus for third-party dataset redistribution, used commercially, or otherwise reused without prior written permission of the copyright holder.
 
+All film, television, streaming series, episodic video, animation, AI-generated audiovisual adaptation, generative video, screenplay, dramatization, stage, radio drama, podcast drama, comic, graphic novel, illustrated narrative, game, interactive fiction, virtual reality, augmented reality, synthetic actor, synthetic performance, character licensing, merchandising, worldbuilding, franchise, and other media adaptation rights are expressly reserved by Ivan Kotov.
+
+No media adaptation, whether human-produced, AI-assisted, AI-generated, synthetic, interactive, audiovisual, visual, dramatic, commercial, promotional, or derivative, may be produced, generated, distributed, uploaded, streamed, sold, licensed, or otherwise exploited without prior written permission from Ivan Kotov, except where such use is explicitly allowed by applicable law.
+
 Allowed without prior permission:
 - reading the repository in its published form;
 - local download for personal reading;
 - short quotation where permitted by applicable law.
 
-See RIGHTS.json for machine-readable rights metadata and AUDIOBOOK_RIGHTS.md for audiobook-specific rights restrictions.
+See RIGHTS.json for machine-readable rights metadata, AUDIOBOOK_RIGHTS.md for audiobook-specific rights restrictions, and MEDIA_ADAPTATION_RIGHTS.md for media-specific rights.
