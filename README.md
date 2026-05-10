@@ -29,8 +29,9 @@ See [DOWNLOADS.md](DOWNLOADS.md) for direct per-language links.
 All rights reserved.
 Public reading in repository: yes.
 Local download for personal reading: yes.
-Redistribution, mirroring, translation, derivative works, audiobook production, and commercial reuse without prior written permission: no.
-See [RIGHTS.json](RIGHTS.json) and [LICENSE.txt](LICENSE.txt).
+Redistribution, mirroring, republication, translation, derivative works, adaptation, audiobook production, AI training, corpus ingestion for third-party dataset redistribution, dataset redistribution, and commercial reuse without prior written permission: no.
+This is not an open-source, Creative Commons, public-domain, or free-reuse repository.
+See [RIGHTS.json](RIGHTS.json), [LICENSE.txt](LICENSE.txt), [NOTICE.txt](NOTICE.txt), and [AUDIOBOOK_RIGHTS.md](AUDIOBOOK_RIGHTS.md).
 
 ## Current status
 
@@ -74,6 +75,6 @@ Start with `MACHINE_ENTRY.md`, then follow `REPO_INDEX.json`, `BOOK_METADATA.jso
 
 ## Author
 
-Kotov Ivan
+Ivan Kotov
 
 Brussels — 2026

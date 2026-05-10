@@ -1,9 +1,12 @@
 Qubit of Hope — Volume II
-Author: Kotov Ivan
+Author: Ivan Kotov
 Brussels — 2026
 Repository role: multilingual public reading repository for Volume II
 Imported filenames are preserved literally.
 Drift is documented in metadata/.
 All rights reserved.
+This repository is not open source, not Creative Commons, and not public domain.
+Do not redistribute, mirror, republish, translate, adapt, create derivative works, produce audiobook editions, use for AI training, ingest into machine-learning datasets or third-party corpus packages, use for voice cloning or synthetic voice production, or use commercially without prior written permission from Ivan Kotov.
 Machine-readable rights: RIGHTS.json
 Human-readable rights notice: LICENSE.txt
+Audiobook rights notice: AUDIOBOOK_RIGHTS.md
