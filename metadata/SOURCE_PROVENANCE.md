@@ -1,8 +1,8 @@
 # Source Provenance
 
-Source root: `C:\Users\kotov\Desktop\AGI\Книга Кубит надежды\Второй том`
+Source location status: External local intake path removed for public portability.
 
-Target repo path: `C:\Users\kotov\Desktop\AGI\qubit-of-hope-volume-ii`
+Target repository: repository root.
 
 The source pack was flat.
 
@@ -10,7 +10,7 @@ Filenames were preserved literally.
 
 No source asset content was modified during import.
 
-See `hashes/SHA256SUMS.source-tree.txt` for hashes of the original 29 source files.
+- `hashes/SHA256SUMS.source-tree.txt`: protected reading and cover assets, using repository-relative paths and exact staged-byte SHA-256 values.
 
 | source_path | repo_path |
 |---|---|

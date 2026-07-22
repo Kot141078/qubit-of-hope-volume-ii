@@ -5,8 +5,8 @@
     "cover_assets": 1,
     "languages": 7,
     "formats_per_language": 4,
-    "generated_root_files": 15,
-    "generated_metadata_files": 12,
+    "generated_root_files": 18,
+    "generated_metadata_files": 13,
     "generated_hash_manifests": 4,
     "md": 7,
     "pdf": 7,
@@ -35,7 +35,10 @@
     "metadata/PUBLICATION_LOG.md",
     "CITATION.cff",
     "LICENSE.txt",
-    "NOTICE.txt"
+    "NOTICE.txt",
+    "metadata/PUBLIC_PORTABILITY_PATCH_v1.0.2.md",
+    "AUDIOBOOK_RIGHTS.md",
+    "MEDIA_ADAPTATION_RIGHTS.md"
   ],
   "imported_asset_manifest": "hashes/SHA256SUMS.source-tree.txt",
   "language_status_summary": {
@@ -66,16 +69,21 @@
     "BOOK_METADATA.json",
     "EDITIONS_MATRIX.json",
     "RIGHTS.json",
-    "MANIFEST.json",
     "metadata/ASSET_MAP.json",
-    "metadata/RELEASE_STATUS.json"
+    "metadata/RELEASE_STATUS.json",
+    "AUDIOBOOK_RIGHTS.md",
+    "MEDIA_ADAPTATION_RIGHTS.md",
+    "metadata/PUBLIC_PORTABILITY_PATCH_v1.0.2.md"
   ],
   "notes": [
     "Source filenames are preserved literally.",
     "French drift is documented, not normalized.",
     "Dutch EPUB _2026 drift is documented, not normalized.",
     "Initial public GitHub publication completed on main.",
-    "First release tag: v1.0.0."
+    "First release tag: v1.0.0.",
+    "v1.0.2 is a rights and public-metadata portability patch.",
+    "The literary reading editions and cover assets are byte-identical to v1.0.1.",
+    "Integrity manifests use repository-relative paths and exact staged bytes."
   ],
   "repo_all_manifest": "hashes/SHA256SUMS.repo-all.txt",
   "repo_full_name": "Kot141078/qubit-of-hope-volume-ii",
@@ -98,17 +106,20 @@
   "rights": "RIGHTS.json",
   "volume_number": 2,
   "trilogy_order": 2,
-  "latest_release": "v1.0.1",
-  "previous_release": "v1.0.0",
-  "patch_type": "metadata-only / navigation-only / trilogy bridge alignment",
-  "release_date": "2026-05-03",
+  "latest_release": "v1.0.2",
+  "previous_release": "v1.0.1",
+  "patch_type": "rights and public metadata portability patch",
+  "release_date": "2026-07-22",
   "release": {
-    "latest_release": "v1.0.1",
-    "previous_release": "v1.0.0",
-    "patch_type": "metadata-only / navigation-only / trilogy bridge alignment",
-    "latest_release_url": "https://github.com/Kot141078/qubit-of-hope-volume-ii/releases/tag/v1.0.1",
-    "previous_release_url": "https://github.com/Kot141078/qubit-of-hope-volume-ii/releases/tag/v1.0.0",
-    "release_date": "2026-05-03"
+    "latest_release": "v1.0.2",
+    "previous_release": "v1.0.1",
+    "patch_type": "rights and public metadata portability patch",
+    "latest_release_url": "https://github.com/Kot141078/qubit-of-hope-volume-ii/releases/tag/v1.0.2",
+    "previous_release_url": "https://github.com/Kot141078/qubit-of-hope-volume-ii/releases/tag/v1.0.1",
+    "release_date": "2026-07-22"
   },
-  "rights_file": "RIGHTS.json"
+  "rights_file": "RIGHTS.json",
+  "release_statement": "v1.0.2 is a rights and public-metadata portability patch. The literary reading editions are byte-identical to v1.0.1.",
+  "source_location_status": "External local intake path removed for public portability",
+  "file_count_including_hash_manifests": 65
 }

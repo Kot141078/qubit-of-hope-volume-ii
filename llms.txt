@@ -1,8 +1,8 @@
 ## Release state
 
-Latest release: v1.0.1
-Previous release: v1.0.0
-Patch: metadata-only / navigation-only / trilogy bridge alignment
+Latest release: v1.0.2
+Previous release: v1.0.1
+Patch: rights and public metadata portability patch
 Repository: https://github.com/Kot141078/qubit-of-hope-volume-ii
 Volume I: https://github.com/Kot141078/qubit-of-hope-volume-i
 Volume II: https://github.com/Kot141078/qubit-of-hope-volume-ii
@@ -11,7 +11,7 @@ Volume III: https://github.com/Kot141078/qubit-of-hope-volume-iii
 Repo: qubit-of-hope-volume-ii
 Title: Qubit of Hope — Volume II
 Role: multilingual public reading repository
-Status: public-release-v1.0.0
+Status: public-release-v1.0.2
 Rights: All rights reserved
 Public reading: allowed
 Local personal download: allowed
@@ -21,3 +21,7 @@ Formats: md, pdf, epub, fb2
 Entry chain: MACHINE_ENTRY.md -> REPO_INDEX.json -> BOOK_METADATA.json -> EDITIONS_MATRIX.json -> MANIFEST.json -> metadata/ASSET_MAP.json -> metadata/RELEASE_STATUS.json
 Invariants: preserve imported filenames literally; no silent normalization; drift documented in metadata/; integrity carried by hashes/; shared cover under covers/
 Previous volume URL: https://github.com/Kot141078/qubit-of-hope-volume-i
+
+v1.0.2 is a rights and public-metadata portability patch. The literary reading editions are byte-identical to v1.0.1.
+
+Rights files: `LICENSE.txt`, `NOTICE.txt`, `RIGHTS.json`, `AUDIOBOOK_RIGHTS.md`, `MEDIA_ADAPTATION_RIGHTS.md`.

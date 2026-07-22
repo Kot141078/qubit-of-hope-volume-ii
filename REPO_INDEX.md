@@ -2,11 +2,13 @@
 
 ## Release state
 
-Latest release: `v1.0.1`.
-Previous release: `v1.0.0`.
-Patch type: metadata-only / navigation-only / trilogy bridge alignment.
+Latest release: `v1.0.2`.
+Previous release: `v1.0.1`.
+Patch type: rights and public metadata portability patch.
 No reading edition files or cover assets were changed in this patch.
-Release URL: `https://github.com/Kot141078/qubit-of-hope-volume-ii/releases/tag/v1.0.1`
+Release URL: `https://github.com/Kot141078/qubit-of-hope-volume-ii/releases/tag/v1.0.2`
+
+v1.0.2 is a rights and public-metadata portability patch. The literary reading editions are byte-identical to v1.0.1.
 
 ## Repository purpose
 
@@ -83,10 +85,10 @@ qubit-of-hope-volume-ii/
 
 ## Integrity files summary
 
-- `hashes/SHA256SUMS.metadata-only.txt`: hashes of root metadata/docs and all files under `metadata/`
-- `hashes/SHA256SUMS.repo-all.txt`: hashes of all repo files except files under `hashes/`
-- `hashes/SHA256SUMS.repo-layout.txt`: hashes of relative path strings for repo layout, excluding `.git` and `hashes/`
-- `hashes/SHA256SUMS.source-tree.txt`: hashes of the original 29 source files from the flat source pack
+- `hashes/SHA256SUMS.metadata-only.txt`: legal, navigation, index, and metadata files, using exact staged-byte SHA-256 values.
+- `hashes/SHA256SUMS.repo-all.txt`: all non-checksum repository files, using exact staged-byte SHA-256 values.
+- `hashes/SHA256SUMS.repo-layout.txt`: all non-checksum repository-relative path strings, hashed as exact UTF-8 path bytes according to the existing repository design (not a file-content manifest).
+- `hashes/SHA256SUMS.source-tree.txt`: protected reading and cover assets, using repository-relative paths and exact staged-byte SHA-256 values.
 
 ## Canonical reading path
 
@@ -102,3 +104,5 @@ Machine: `MACHINE_ENTRY` -> `REPO_INDEX.json` -> `BOOK_METADATA.json` -> `EDITIO
 - `BOOK_METADATA.json`
 - `EDITIONS_MATRIX.json`
 - `MANIFEST.json`
+
+Rights files: `LICENSE.txt`, `NOTICE.txt`, `RIGHTS.json`, `AUDIOBOOK_RIGHTS.md`, `MEDIA_ADAPTATION_RIGHTS.md`.

@@ -41,7 +41,6 @@
   },
   "trilogy_order": 2,
   "rights": "RIGHTS.json",
-  "source_root_preserved_at_import": "C:\\Users\\kotov\\Desktop\\AGI\\Книга Кубит надежды\\Второй том",
   "title": "Qubit of Hope — Volume II",
   "title_sort": "Qubit of Hope — Volume II",
   "volume_label": "Volume II",
@@ -49,17 +48,19 @@
   "work_type": "book",
   "year": 2026,
   "repository": "https://github.com/Kot141078/qubit-of-hope-volume-ii",
-  "latest_release": "v1.0.1",
-  "previous_release": "v1.0.0",
-  "patch_type": "metadata-only / navigation-only / trilogy bridge alignment",
-  "release_date": "2026-05-03",
+  "latest_release": "v1.0.2",
+  "previous_release": "v1.0.1",
+  "patch_type": "rights and public metadata portability patch",
+  "release_date": "2026-07-22",
   "release": {
-    "latest_release": "v1.0.1",
-    "previous_release": "v1.0.0",
-    "patch_type": "metadata-only / navigation-only / trilogy bridge alignment",
-    "latest_release_url": "https://github.com/Kot141078/qubit-of-hope-volume-ii/releases/tag/v1.0.1",
-    "previous_release_url": "https://github.com/Kot141078/qubit-of-hope-volume-ii/releases/tag/v1.0.0",
-    "release_date": "2026-05-03"
+    "latest_release": "v1.0.2",
+    "previous_release": "v1.0.1",
+    "patch_type": "rights and public metadata portability patch",
+    "latest_release_url": "https://github.com/Kot141078/qubit-of-hope-volume-ii/releases/tag/v1.0.2",
+    "previous_release_url": "https://github.com/Kot141078/qubit-of-hope-volume-ii/releases/tag/v1.0.1",
+    "release_date": "2026-07-22"
   },
-  "rights_file": "RIGHTS.json"
+  "rights_file": "RIGHTS.json",
+  "source_location_status": "External local intake path removed for public portability",
+  "release_statement": "v1.0.2 is a rights and public-metadata portability patch. The literary reading editions are byte-identical to v1.0.1."
 }

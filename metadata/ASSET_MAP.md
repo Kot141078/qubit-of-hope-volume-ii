@@ -1,8 +1,8 @@
 # Asset Map
 
-Source root: `C:\Users\kotov\Desktop\AGI\Книга Кубит надежды\Второй том`
+Source provenance: external local intake path removed for public portability; original filenames and hashes are preserved below and in `hashes/SHA256SUMS.source-tree.txt`.
 
-Target repo path: `C:\Users\kotov\Desktop\AGI\qubit-of-hope-volume-ii`
+Target repository: repository root.
 
 ## Cover
 

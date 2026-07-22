@@ -38,7 +38,10 @@
     "REPO_INDEX.json",
     "RIGHTS.json",
     "metadata/ASSET_MAP.json",
-    "metadata/RELEASE_STATUS.json"
+    "metadata/RELEASE_STATUS.json",
+    "AUDIOBOOK_RIGHTS.md",
+    "MEDIA_ADAPTATION_RIGHTS.md",
+    "metadata/PUBLIC_PORTABILITY_PATCH_v1.0.2.md"
   ],
   "language_editions": [
     {
@@ -167,19 +170,20 @@
   "year": 2026,
   "repository": "https://github.com/Kot141078/qubit-of-hope-volume-ii",
   "volume_number": 2,
-  "latest_release": "v1.0.1",
-  "previous_release": "v1.0.0",
-  "patch_type": "metadata-only / navigation-only / trilogy bridge alignment",
-  "release_date": "2026-05-03",
+  "latest_release": "v1.0.2",
+  "previous_release": "v1.0.1",
+  "patch_type": "rights and public metadata portability patch",
+  "release_date": "2026-07-22",
   "status": "formal-public-release",
   "release": {
-    "latest_release": "v1.0.1",
-    "previous_release": "v1.0.0",
-    "patch_type": "metadata-only / navigation-only / trilogy bridge alignment",
-    "latest_release_url": "https://github.com/Kot141078/qubit-of-hope-volume-ii/releases/tag/v1.0.1",
-    "previous_release_url": "https://github.com/Kot141078/qubit-of-hope-volume-ii/releases/tag/v1.0.0",
-    "release_date": "2026-05-03",
+    "latest_release": "v1.0.2",
+    "previous_release": "v1.0.1",
+    "patch_type": "rights and public metadata portability patch",
+    "latest_release_url": "https://github.com/Kot141078/qubit-of-hope-volume-ii/releases/tag/v1.0.2",
+    "previous_release_url": "https://github.com/Kot141078/qubit-of-hope-volume-ii/releases/tag/v1.0.1",
+    "release_date": "2026-07-22",
     "github_release_created": true
   },
-  "rights_file": "RIGHTS.json"
+  "rights_file": "RIGHTS.json",
+  "release_statement": "v1.0.2 is a rights and public-metadata portability patch. The literary reading editions are byte-identical to v1.0.1."
 }

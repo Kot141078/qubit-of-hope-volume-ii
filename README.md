@@ -1,5 +1,9 @@
 # Qubit of Hope — Volume II
 
+## Release v1.0.2
+
+v1.0.2 is a rights and public-metadata portability patch. The literary reading editions are byte-identical to v1.0.1.
+
 ## Corpus role
 
 This repository is a multilingual public reading repository for Volume II of Qubit of Hope. It preserves imported publication assets literally, exposes them in a canonical reader-facing and machine-readable layout, and keeps drift visible instead of silently normalizing it.
@@ -58,10 +62,10 @@ See:
 
 ## Integrity
 
-- `hashes/SHA256SUMS.metadata-only.txt`
-- `hashes/SHA256SUMS.repo-all.txt`
-- `hashes/SHA256SUMS.repo-layout.txt`
-- `hashes/SHA256SUMS.source-tree.txt`
+- `hashes/SHA256SUMS.metadata-only.txt`: legal, navigation, index, and metadata files, using exact staged-byte SHA-256 values.
+- `hashes/SHA256SUMS.repo-all.txt`: all non-checksum repository files, using exact staged-byte SHA-256 values.
+- `hashes/SHA256SUMS.repo-layout.txt`: all non-checksum repository-relative path strings, hashed as exact UTF-8 path bytes according to the existing repository design (not a file-content manifest).
+- `hashes/SHA256SUMS.source-tree.txt`: protected reading and cover assets, using repository-relative paths and exact staged-byte SHA-256 values.
 
 `repo-all` excludes the hash files themselves to avoid self-reference.
 
