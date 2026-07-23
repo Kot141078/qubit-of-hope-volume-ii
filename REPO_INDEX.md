@@ -7,8 +7,15 @@ Previous release: `v1.0.1`.
 Patch type: rights and public metadata portability patch.
 No reading edition files or cover assets were changed in this patch.
 Release URL: `https://github.com/Kot141078/qubit-of-hope-volume-ii/releases/tag/v1.0.2`
+Current-version DOI: `https://doi.org/10.5281/zenodo.21506200`
+All-versions DOI: `https://doi.org/10.5281/zenodo.21506199`
+Zenodo record: `https://zenodo.org/records/21506200`
+Canonical website: `https://ivankotov.eu/qubit-of-hope-volume-ii/`
+Canonical v1.0.2 licence: `https://github.com/Kot141078/qubit-of-hope-volume-ii/blob/v1.0.2/LICENSE.txt`
 
 v1.0.2 is a rights and public-metadata portability patch. The literary reading editions are byte-identical to v1.0.1.
+
+Post-deposit DOI synchronization. No literary text or cover artwork changed.
 
 ## Repository purpose
 
@@ -20,9 +27,9 @@ Human-readable and machine-navigable book-layer repository for Qubit of Hope —
 
 ## Trilogy
 
-- Volume I: `https://github.com/Kot141078/qubit-of-hope-volume-i`
-- Volume II: `https://github.com/Kot141078/qubit-of-hope-volume-ii`
-- Volume III: `https://github.com/Kot141078/qubit-of-hope-volume-iii`
+- Volume I: repository `https://github.com/Kot141078/qubit-of-hope-volume-i` · all-versions DOI `https://doi.org/10.5281/zenodo.21505132` · website `https://ivankotov.eu/qubit-of-hope/`
+- Volume II: repository `https://github.com/Kot141078/qubit-of-hope-volume-ii` · all-versions DOI `https://doi.org/10.5281/zenodo.21506199` · website `https://ivankotov.eu/qubit-of-hope-volume-ii/`
+- Volume III: repository `https://github.com/Kot141078/qubit-of-hope-volume-iii` · all-versions DOI `https://doi.org/10.5281/zenodo.21507089` · website `https://ivankotov.eu/qubit-of-hope-volume-iii/`
 
 ## Rights
 
@@ -30,6 +37,7 @@ All rights reserved.
 Reading repository, not an open-license repo.
 Machine authority: `RIGHTS.json`.
 Human notice: `LICENSE.txt`.
+Canonical v1.0.2 licence: `https://github.com/Kot141078/qubit-of-hope-volume-ii/blob/v1.0.2/LICENSE.txt`.
 
 ## Directory tree
 

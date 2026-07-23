@@ -4,6 +4,19 @@
 
 v1.0.2 is a rights and public-metadata portability patch. The literary reading editions are byte-identical to v1.0.1.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21506199.svg)](https://doi.org/10.5281/zenodo.21506199)
+
+## Publication record
+
+- Current release: [`v1.0.2`](https://github.com/Kot141078/qubit-of-hope-volume-ii/releases/tag/v1.0.2)
+- Current-version DOI: [`10.5281/zenodo.21506200`](https://doi.org/10.5281/zenodo.21506200)
+- All-versions DOI: [`10.5281/zenodo.21506199`](https://doi.org/10.5281/zenodo.21506199)
+- Zenodo record: [`https://zenodo.org/records/21506200`](https://zenodo.org/records/21506200)
+- Canonical website: [`https://ivankotov.eu/qubit-of-hope-volume-ii/`](https://ivankotov.eu/qubit-of-hope-volume-ii/)
+- Canonical v1.0.2 licence: [`LICENSE.txt`](https://github.com/Kot141078/qubit-of-hope-volume-ii/blob/v1.0.2/LICENSE.txt)
+
+Post-deposit DOI synchronization. No literary text or cover artwork changed.
+
 ## Corpus role
 
 This repository is a multilingual public reading repository for Volume II of Qubit of Hope. It preserves imported publication assets literally, exposes them in a canonical reader-facing and machine-readable layout, and keeps drift visible instead of silently normalizing it.
@@ -48,6 +61,7 @@ See:
 - [MEDIA_ADAPTATION_RIGHTS.md](MEDIA_ADAPTATION_RIGHTS.md)
 - [RIGHTS.json](RIGHTS.json)
 - [DOWNLOADS.md](DOWNLOADS.md)
+- [Canonical v1.0.2 licence](https://github.com/Kot141078/qubit-of-hope-volume-ii/blob/v1.0.2/LICENSE.txt)
 
 ## Current status
 
@@ -81,9 +95,9 @@ Documented drift carried forward:
 - Dutch EPUB drift: `Qubit_van_hoop_Deel_II_nl_2026.epub` carries an extra `_2026` suffix.
 ## Trilogy
 
-- Volume I: `https://github.com/Kot141078/qubit-of-hope-volume-i`
-- Volume II: `https://github.com/Kot141078/qubit-of-hope-volume-ii`
-- Volume III: `https://github.com/Kot141078/qubit-of-hope-volume-iii`
+- Volume I: [repository](https://github.com/Kot141078/qubit-of-hope-volume-i) · [all-versions DOI](https://doi.org/10.5281/zenodo.21505132) · [website](https://ivankotov.eu/qubit-of-hope/)
+- Volume II: [repository](https://github.com/Kot141078/qubit-of-hope-volume-ii) · [all-versions DOI](https://doi.org/10.5281/zenodo.21506199) · [website](https://ivankotov.eu/qubit-of-hope-volume-ii/)
+- Volume III: [repository](https://github.com/Kot141078/qubit-of-hope-volume-iii) · [all-versions DOI](https://doi.org/10.5281/zenodo.21507089) · [website](https://ivankotov.eu/qubit-of-hope-volume-iii/)
 
 ## Machine-readable metadata
 

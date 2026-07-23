@@ -22,3 +22,4 @@
 - 2026-04-18 01:35:21 +02:00 — GitHub Release v1.0.0 created.
 - 2026-04-18 01:35:21 +02:00 — no asset filenames changed.
 - 2026-04-18 01:35:21 +02:00 — no edition files changed.
+- 2026-07-23 — Post-deposit DOI synchronization. No literary text or cover artwork changed.

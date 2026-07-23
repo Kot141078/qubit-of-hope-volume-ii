@@ -8,6 +8,8 @@
 - `metadata/ASSET_MAP.json`: explicit cover and language asset map.
 - `metadata/RELEASE_STATUS.json`: machine-readable completeness state for all seven bundles.
 - `RIGHTS.json` is the canonical machine-readable rights source. `LICENSE.txt` is the human-readable rights notice. This repository is not open-license.
+- `BOOK_METADATA.json`, `MANIFEST.json`, and `REPO_INDEX.json` carry the volume DOI pair, canonical website, pinned v1.0.2 licence URL, and trilogy navigation.
+- `CITATION.cff` uses `license-url` for the non-standard all-rights-reserved licence and a schema-valid `preferred-citation` with `type: book`.
 
 ## v1.0.2 integrity semantics
 
